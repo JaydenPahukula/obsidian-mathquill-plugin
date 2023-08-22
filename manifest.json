@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "mathquill-plugin",
+	"name": "MathQuill Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "This plugin brings the ease of MathQuill to Obsidian!",
+	"author": "Jayden Pahukula",
+	"authorUrl": "https://github.com/JaydenPahukula",
+	"fundingUrl": "https://github.com/JaydenPahukula",
+	"isDesktopOnly": true
 }
